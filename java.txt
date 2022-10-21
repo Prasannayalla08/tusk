@@ -3,3 +3,9 @@ Welocme to Java class
 
 oops concepts
 inheritance
+poly
+encapsulation
+
+
+
+thank you
